@@ -1,7 +1,9 @@
 name: codecamp_onepay
 description: To generate and observe BCEL transaction
 version: 1.0.0
-homepage:
+homepage: https://codecamplao.com/en/codecamplao/
+repository: https://github.com/Bounphone/codecamp_onepay.git
+authors: Bounphone KOSADA
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
